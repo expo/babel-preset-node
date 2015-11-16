@@ -1,0 +1,44 @@
+{
+  "name": "@exponent/babel-preset-node",
+  "version": "0.1.0",
+  "description": "Babel presets for modern Node.js",
+  "main": "preset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/babel-preset-node.git"
+  },
+  "keywords": [
+    "babel-preset"
+  ],
+  "author": "James Ide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/babel-preset-node/issues"
+  },
+  "homepage": "https://github.com/exponentjs/babel-preset-node#readme",
+  "dependencies": {
+    "babel-plugin-syntax-async-functions": "^6.1.18",
+    "babel-plugin-syntax-class-properties": "^6.1.18",
+    "babel-plugin-syntax-decorators": "^6.1.18",
+    "babel-plugin-syntax-exponentiation-operator": "^6.1.18",
+    "babel-plugin-syntax-export-extensions": "^6.1.18",
+    "babel-plugin-syntax-object-rest-spread": "^6.1.18",
+    "babel-plugin-syntax-trailing-function-commas": "^6.1.18",
+    "babel-plugin-transform-async-to-generator": "^6.1.18",
+    "babel-plugin-transform-class-properties": "^6.1.20",
+    "babel-plugin-transform-decorators": "^6.1.18",
+    "babel-plugin-transform-es2015-classes": "^6.1.21",
+    "babel-plugin-transform-es2015-destructuring": "^6.1.18",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.1.20",
+    "babel-plugin-transform-es2015-spread": "^6.1.18",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.1.18",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.1.18",
+    "babel-plugin-transform-exponentiation-operator": "^6.1.18",
+    "babel-plugin-transform-export-extensions": "^6.1.18",
+    "babel-plugin-transform-function-bind": "^6.1.18",
+    "babel-plugin-transform-object-rest-spread": "^6.1.18"
+  }
+}
